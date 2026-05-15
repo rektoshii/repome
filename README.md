@@ -42,3 +42,4 @@ no way ?!
 arabic 
 french !! 
 spanish! 
+german 
