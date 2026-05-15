@@ -47,3 +47,4 @@ Saha
 GBP
 usd
 eur
+jpy
