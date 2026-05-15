@@ -33,3 +33,4 @@ does anything really die? 18
 what is death? 19
 everyone lives forever? 20
 thats what we want to beleive/
+beleive what you want. 22
