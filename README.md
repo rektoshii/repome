@@ -45,3 +45,4 @@ spanish!
 german 
 Saha
 GBP
+usd
