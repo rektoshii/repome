@@ -31,3 +31,4 @@ forever doesnt exist. 16
 what wont die ? 17
 does anything really die? 18
 what is death? 19
+everyone lives forever? 20
