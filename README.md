@@ -55,3 +55,4 @@ bnb
 usdt
 trx
 usdc
+fsfs
