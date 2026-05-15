@@ -29,3 +29,4 @@ show_random_quote()
 "are you planning to live forever ?" 15
 forever doesnt exist. 16
 what wont die ? 17
+does anything really die? 18
