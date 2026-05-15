@@ -21,3 +21,4 @@ show_random_quote()
 "Add quote #7"
 "Add quote #8"
 "Add quote #9"
+"Add quote #10"
