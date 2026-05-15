@@ -49,3 +49,4 @@ usd
 eur
 jpy
 pny
+btc
