@@ -53,3 +53,4 @@ eth
 btc
 bnb
 usdt
+trx
