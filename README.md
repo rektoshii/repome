@@ -27,3 +27,4 @@ show_random_quote()
 "everyday is for the thief, be the thief" quote 13
 "Thiefs die young" 14
 "are you planning to live forever ?" 15
+forever doesnt exist. 16
