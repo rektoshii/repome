@@ -46,3 +46,4 @@ german
 Saha
 GBP
 usd
+eur
