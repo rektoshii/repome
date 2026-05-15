@@ -50,3 +50,4 @@ eur
 jpy
 pny
 btc
+bnb
