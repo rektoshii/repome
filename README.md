@@ -13,3 +13,4 @@ def show_random_quote():
     print(random.choice(quotes))
  
 show_random_quote()
+"Add quote #2"
