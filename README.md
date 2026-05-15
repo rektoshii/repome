@@ -15,3 +15,4 @@ def show_random_quote():
 show_random_quote()
 "Add quote #2"
 "Add quote #3"
+"Add quote #4"
