@@ -44,3 +44,4 @@ french !!
 spanish! 
 german 
 Saha
+GBP
