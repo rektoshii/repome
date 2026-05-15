@@ -49,6 +49,7 @@ usd
 eur
 jpy
 pny
+eth
 btc
 bnb
 usdt
