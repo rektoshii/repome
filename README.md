@@ -51,3 +51,4 @@ jpy
 pny
 btc
 bnb
+usdt
