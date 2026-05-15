@@ -24,3 +24,4 @@ show_random_quote()
 "Add quote #10"
 "Add quote #11"
 "Add quote #12"
+"everyday is for the thief, be the thief" quote 13
