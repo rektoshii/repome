@@ -38,3 +38,4 @@ what you dont know cant hurt you. 23
 hurt no one. 24
 hurt is everywere. 25
 why the good die young?
+no way ?
