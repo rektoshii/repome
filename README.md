@@ -48,3 +48,4 @@ GBP
 usd
 eur
 jpy
+pny
