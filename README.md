@@ -54,3 +54,4 @@ btc
 bnb
 usdt
 trx
+usdc
