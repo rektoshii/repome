@@ -28,3 +28,4 @@ show_random_quote()
 "Thiefs die young" 14
 "are you planning to live forever ?" 15
 forever doesnt exist. 16
+what wont die ? 17
