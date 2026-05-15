@@ -40,3 +40,4 @@ hurt is everywere. 25
 why the good die young?
 no way ?
 french !! 
+spanish! 
